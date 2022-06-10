@@ -1,0 +1,11 @@
+{
+    "name": "triumfosso",
+    "description": "studitest",
+    "env": {
+        "PASSWORD": {
+            "description": "PSW",
+            "value": "password"
+        }
+    },
+    "stack": "container"
+}
